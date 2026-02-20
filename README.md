@@ -1,6 +1,6 @@
 ## Selenium with Java Practice
 
-Selenium with Java framework, whilst incorporating Maven, TestNG, and eventually Gherkin scenarios.
+Selenium with Java framework, whilst incorporating Maven and TestNG.
 
 ## Description
 
