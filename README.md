@@ -4,7 +4,7 @@ Selenium with Java framework, whilst incorporating Maven, TestNG, and eventually
 
 ## Description
 
-This project was created while doing Dmitry Shyshkin's Selenium WebDriver: Selenium Automation Testing with Java course on Udemy. It incorporated Selenium 4 with Java, Maven, and TestNG on Windows. This was a beginner's course to introduce Selenium, Java, Maven, and TestNG, all of which I've been interested in learning to further my career in QA. My primary goal with this project was to become familiar with these concepts and technologies, then build on them here for further practice to achieve mastery in Selenium, Java, Maven, TestNG, Gherkin, and Cucumber. I may add CI/CD to this as well.
+This project was created while doing Dmitry Shyshkin's Selenium WebDriver: Selenium Automation Testing with Java course on Udemy. It incorporated Selenium 4 with Java, Maven, and TestNG on Windows. This was a beginner's course to introduce Selenium, Java, Maven, and TestNG, all of which I've been interested in learning to further my career in QA. My primary goal with this project was to become familiar with these concepts and technologies.
 
 ## Features Tested
 
